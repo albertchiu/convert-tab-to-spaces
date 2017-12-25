@@ -1,0 +1,13 @@
+{
+  "name": "convert-tab-to-spaces",
+  "version": "1.0.0",
+  "description": "convert tab characters to white space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CW",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
